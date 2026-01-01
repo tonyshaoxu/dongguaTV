@@ -1,9 +1,9 @@
 ﻿{
     "appId": "com.ednovas.donguatv",
-    "appName": "E视界",
+    "appName": "邵氏影业",
     "webDir": "public",
     "server": {
-        "url": "https://ednovas.video",
+        "url": "http://216.250.96.167:3005",
         "cleartext": true
     },
     "plugins": {
