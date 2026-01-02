@@ -9,11 +9,11 @@ on:
       server_url:
         description: 'Server URL (e.g. https://your-site.com)'
         required: true
-        default: 'http://216.250.96.167:3005/'
+        default: 'http://192.168.123.135:3005/'
       app_name:
         description: 'App Name'
         required: true
-        default: '邵氏影业'
+        default: '局域网影业'
       version_tag:
         description: 'Version Tag (e.g. v1.0.0)'
         required: true
