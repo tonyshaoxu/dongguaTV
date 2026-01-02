@@ -1,9 +1,9 @@
 ﻿{
     "appId": "com.ednovas.donguatv",
-    "appName": "邵氏影业",
+    "appName": "局域网影业",
     "webDir": "public",
     "server": {
-        "url": "http://216.250.96.167:3005",
+        "url": "http://192.168.123.135:3005",
         "cleartext": true
     },
     "plugins": {
